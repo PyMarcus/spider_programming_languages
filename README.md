@@ -19,7 +19,7 @@ RUN AND SAVE JSON FILE:
 
 RUN TO SAVE JSON DATA INTO DATABASE (SQLite)
 
-    python database_spider.py
+    python spider_language.py
 
 Python version:
     
