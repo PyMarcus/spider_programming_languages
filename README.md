@@ -28,3 +28,7 @@ Python version:
 Operational System:
 
     Windows 10 - 64bits
+
+
+Structure:
+![image](https://user-images.githubusercontent.com/88283829/190188156-1761dd27-c8b4-4c20-aeba-a65332adc77d.png)
